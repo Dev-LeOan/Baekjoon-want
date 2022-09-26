@@ -1,2 +1,2 @@
 # Baekjoon-want
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+##단계별 백준 문제 저장소
